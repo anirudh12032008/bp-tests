@@ -1,4 +1,5 @@
 BP_TESTS_C = \
+  misaligned_fault      \
   out_of_bounds_test    \
   m_external_interrupt  \
   s_external_interrupt  \
